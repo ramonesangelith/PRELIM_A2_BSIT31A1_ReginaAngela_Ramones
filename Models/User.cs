@@ -7,5 +7,8 @@
         public string Email { get; set; }
 
         public string BorrowedBooks { get; set; }
+
+        public Book Libro { get; set; }
     }
 }
+
